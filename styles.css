@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: system-ui;
+}
+main {
+  margin-inline: 16px;
+}
+h1 {
+  font-size: 1.5rem;
+}
+h2 {
+  font-size: 1.25rem;
+}
+.round {
+  border-radius: 50%;
+}
+footer {
+  margin-block: 50px;
+  text-align: center;
+}
